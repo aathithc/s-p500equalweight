@@ -1,1 +1,2 @@
 # s-p500equalweight
+The S&P 500 is a stock market index that tracks the performance of 500 large U.S. companies. The weight of each company in the index is determined by its market capitalization, with larger companies having a greater influence on the index's movement. The goal is to create a python script that will accept the value of your portfolio and tell you how many shares of each S&P 500 constituent you should purchase to get an equal-weight version of the index fund.
